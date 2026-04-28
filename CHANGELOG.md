@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.0 (2026-04-28)
+
+
+### Bug Fixes
+
+* disable webSecurity to allow ES modules in file:// protocol ([a6696f8](https://github.com/challayashwanth1998-png/career-ops-ui/commit/a6696f840c735fab5b1a4a0e1bb0a600737c6e5a))
+* resolve blank screen by using HashRouter and relative base paths ([320689c](https://github.com/challayashwanth1998-png/career-ops-ui/commit/320689c6790caa25e78ff0c563600f9b5b7d2a06))
+
 ## [1.6.0](https://github.com/santifer/career-ops/compare/v1.5.0...v1.6.0) (2026-04-26)
 
 
