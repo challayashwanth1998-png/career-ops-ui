@@ -21,7 +21,8 @@ function createWindow() {
     height: 900,
     webPreferences: {
       nodeIntegration: true,
-      contextIsolation: false
+      contextIsolation: false,
+      webSecurity: false
     },
     titleBarStyle: 'hiddenInset', // Makes it look premium on Mac
     backgroundColor: '#09090b' // Zinc 950
