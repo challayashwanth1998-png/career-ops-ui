@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
 import { LayoutDashboard, ListTodo, Settings as SettingsIcon, Moon, Sun, Search } from 'lucide-react';
 import Dashboard from './pages/Dashboard';
 import Onboarding from './pages/Onboarding';
